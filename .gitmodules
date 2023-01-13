@@ -1,0 +1,6 @@
+[submodule "ui-forest-web"]
+	path = ui-forest-web
+	url = https://github.com/UrijHoruzij/ui-forest-web.git
+[submodule "ui-forest-native"]
+	path = ui-forest-native
+	url = https://github.com/UrijHoruzij/ui-forest-native.git
