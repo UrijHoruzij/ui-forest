@@ -4,10 +4,10 @@
 </p>
 <p align="center">
     <a aria-label="NPM version" href="https://www.npmjs.com/package/ui-forest">
-      <img alt="npm" src="https://img.shields.io/npm/v/ui-forest?color=%23d34a47">
+      <img alt="npm" src="https://img.shields.io/npm/v/ui-forest?color=2e7d32">
     </a>
     <a aria-label="License" href="https://github.com/UrijHoruzij/ui-forest-web/LICENSE.md">
-      <img alt="NPM" src="https://img.shields.io/npm/l/ui-forest?color=%23d34a47">
+      <img alt="NPM" src="https://img.shields.io/npm/l/ui-forest?color=2e7d32">
     </a>
   </p>
 
